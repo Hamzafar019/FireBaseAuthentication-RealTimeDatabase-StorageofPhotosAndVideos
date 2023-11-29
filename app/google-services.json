@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255680675828",
+    "project_id": "mhz-karate",
+    "storage_bucket": "mhz-karate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255680675828:android:685d24bd64655f2cb403a1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0RcfynwhqT3RRCeEFUalVDkqx0jjD7rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
